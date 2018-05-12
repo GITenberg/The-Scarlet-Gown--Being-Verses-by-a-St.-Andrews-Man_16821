@@ -1,0 +1,27 @@
+_repo: The-Scarlet-Gown--Being-Verses-by-a-St.-Andrews-Man_16821
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murray, R. F. (Robert Fuller)
+    alias: Murray, Robert Fuller
+    birthdate: 1863
+    deathdate: 1894
+    gutenberg_agent_id: '607'
+    url: http://www.gutenberg.org/2009/agents/607
+description: ''
+gutenberg_issued: '2005-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16821'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: 'The Scarlet Gown: Being Verses by a St. Andrews Man'
+url: http://www.gutenberg.org/ebooks/16821
